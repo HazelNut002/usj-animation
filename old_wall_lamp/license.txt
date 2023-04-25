@@ -1,0 +1,11 @@
+Model Information:
+* title:	old wall lamp
+* source:	https://sketchfab.com/3d-models/old-wall-lamp-c24d6389847445a38448b85fd89587e3
+* author:	batata (https://sketchfab.com/i55121127)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "old wall lamp" (https://sketchfab.com/3d-models/old-wall-lamp-c24d6389847445a38448b85fd89587e3) by batata (https://sketchfab.com/i55121127) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
