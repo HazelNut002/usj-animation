@@ -1,0 +1,11 @@
+Model Information:
+* title:	Partition Sheet
+* source:	https://sketchfab.com/3d-models/partition-sheet-622305f5ea0f47b7bf0f5e6d172ab390
+* author:	e.kuechel (https://sketchfab.com/e.kuechel)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Partition Sheet" (https://sketchfab.com/3d-models/partition-sheet-622305f5ea0f47b7bf0f5e6d172ab390) by e.kuechel (https://sketchfab.com/e.kuechel) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
