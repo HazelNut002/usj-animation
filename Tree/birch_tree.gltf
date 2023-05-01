@@ -1,0 +1,202 @@
+{
+    "asset" : {
+        "generator" : "Khronos glTF Blender I/O v3.4.50",
+        "version" : "2.0"
+    },
+    "scene" : 0,
+    "scenes" : [
+        {
+            "name" : "Scene",
+            "nodes" : [
+                0
+            ]
+        }
+    ],
+    "nodes" : [
+        {
+            "mesh" : 0,
+            "name" : "Tree.Birch"
+        }
+    ],
+    "materials" : [
+        {
+            "doubleSided" : true,
+            "name" : "Tree.Birch.Leaf.Summer.Mat",
+            "pbrMetallicRoughness" : {
+                "baseColorFactor" : [
+                    0.3327120542526245,
+                    0.5755194425582886,
+                    0.9186007380485535,
+                    1
+                ],
+                "metallicFactor" : 0,
+                "roughnessFactor" : 0.5
+            }
+        },
+        {
+            "doubleSided" : true,
+            "name" : "Tree.Birch.Bark.Mat",
+            "pbrMetallicRoughness" : {
+                "baseColorFactor" : [
+                    0.18744699656963348,
+                    0.22681161761283875,
+                    0.458823561668396,
+                    1
+                ],
+                "metallicFactor" : 0,
+                "roughnessFactor" : 0.5
+            }
+        }
+    ],
+    "meshes" : [
+        {
+            "name" : "sub02",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 0,
+                        "TEXCOORD_0" : 1,
+                        "NORMAL" : 2
+                    },
+                    "indices" : 3,
+                    "material" : 0
+                },
+                {
+                    "attributes" : {
+                        "POSITION" : 4,
+                        "TEXCOORD_0" : 5,
+                        "NORMAL" : 6
+                    },
+                    "indices" : 7,
+                    "material" : 1
+                }
+            ]
+        }
+    ],
+    "accessors" : [
+        {
+            "bufferView" : 0,
+            "componentType" : 5126,
+            "count" : 194277,
+            "max" : [
+                1.140638828277588,
+                3.898221015930176,
+                1.2016571760177612
+            ],
+            "min" : [
+                -1.2520685195922852,
+                0.8375825881958008,
+                -1.1670628786087036
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 1,
+            "componentType" : 5126,
+            "count" : 194277,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 2,
+            "componentType" : 5126,
+            "count" : 194277,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 3,
+            "componentType" : 5125,
+            "count" : 194277,
+            "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 4,
+            "componentType" : 5126,
+            "count" : 2091,
+            "max" : [
+                0.8214147090911865,
+                3.387470245361328,
+                1.0261348485946655
+            ],
+            "min" : [
+                -0.9788229465484619,
+                -0.020649908110499382,
+                -0.8908761739730835
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 5,
+            "componentType" : 5126,
+            "count" : 2091,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 6,
+            "componentType" : 5126,
+            "count" : 2091,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 7,
+            "componentType" : 5123,
+            "count" : 2091,
+            "type" : "SCALAR"
+        }
+    ],
+    "bufferViews" : [
+        {
+            "buffer" : 0,
+            "byteLength" : 2331324,
+            "byteOffset" : 0,
+            "target" : 34962
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 1554216,
+            "byteOffset" : 2331324,
+            "target" : 34962
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 2331324,
+            "byteOffset" : 3885540,
+            "target" : 34962
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 777108,
+            "byteOffset" : 6216864,
+            "target" : 34963
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 25092,
+            "byteOffset" : 6993972,
+            "target" : 34962
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 16728,
+            "byteOffset" : 7019064,
+            "target" : 34962
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 25092,
+            "byteOffset" : 7035792,
+            "target" : 34962
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 4182,
+            "byteOffset" : 7060884,
+            "target" : 34963
+        }
+    ],
+    "buffers" : [
+        {
+            "byteLength" : 7065068,
+            "uri" : "birch_tree.bin"
+        }
+    ]
+}
