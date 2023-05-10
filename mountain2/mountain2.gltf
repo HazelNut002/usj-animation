@@ -64,61 +64,61 @@
         {
             "bufferView" : 0,
             "componentType" : 5126,
-            "count" : 5389,
+            "count" : 5692,
             "max" : [
-                2.6233315467834473,
-                1.1071168184280396,
+                2.644554853439331,
+                1.5148866176605225,
                 4.707650184631348
             ],
             "min" : [
                 -7.594385623931885,
-                -0.16976706683635712,
-                -4.6183085441589355
+                -0.016457449644804,
+                -5.0369873046875
             ],
             "type" : "VEC3"
         },
         {
             "bufferView" : 1,
             "componentType" : 5126,
-            "count" : 5389,
+            "count" : 5692,
             "type" : "VEC2"
         },
         {
             "bufferView" : 2,
             "componentType" : 5126,
-            "count" : 5389,
+            "count" : 5692,
             "type" : "VEC3"
         },
         {
             "bufferView" : 3,
             "componentType" : 5123,
-            "count" : 8538,
+            "count" : 8997,
             "type" : "SCALAR"
         }
     ],
     "bufferViews" : [
         {
             "buffer" : 0,
-            "byteLength" : 64668,
+            "byteLength" : 68304,
             "byteOffset" : 0,
             "target" : 34962
         },
         {
             "buffer" : 0,
-            "byteLength" : 43112,
-            "byteOffset" : 64668,
+            "byteLength" : 45536,
+            "byteOffset" : 68304,
             "target" : 34962
         },
         {
             "buffer" : 0,
-            "byteLength" : 64668,
-            "byteOffset" : 107780,
+            "byteLength" : 68304,
+            "byteOffset" : 113840,
             "target" : 34962
         },
         {
             "buffer" : 0,
-            "byteLength" : 17076,
-            "byteOffset" : 172448,
+            "byteLength" : 17994,
+            "byteOffset" : 182144,
             "target" : 34963
         }
     ],
@@ -130,7 +130,7 @@
     ],
     "buffers" : [
         {
-            "byteLength" : 189524,
+            "byteLength" : 200140,
             "uri" : "mountain2.bin"
         }
     ]
